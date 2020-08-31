@@ -1,0 +1,11 @@
+
+.gitattributes
+.vs/WCFServerDoNotStepOnLine/DesignTimeBuild/.dtbcache
+.vs/WCFServerDoNotStepOnLine/v15/.suo
+.vs/WCFServerDoNotStepOnLine/v15/Server/sqlite3/db.lock
+.vs/WCFServerDoNotStepOnLine/v15/Server/sqlite3/storage.ide
+.vs/WCFServerDoNotStepOnLine/v15/Server/sqlite3/storage.ide-shm
+.vs/WCFServerDoNotStepOnLine/v15/Server/sqlite3/storage.ide-wal
+.vs/WCFServerDoNotStepOnLine/v16/.suo
+.vs/WCFServerDoNotStepOnLine/v16/Server/sqlite3/db.lock
+.vs/WCFServerDoNotStepOnLine/v16/Server/sqlite3/storage.ide
