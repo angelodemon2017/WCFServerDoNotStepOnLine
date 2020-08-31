@@ -1,0 +1,13 @@
+F:\Unity\Servers\WCFServerDoNotStepOnLine\ServiceModels\bin\Debug\ServiceModels.dll.config
+F:\Unity\Servers\WCFServerDoNotStepOnLine\ServiceModels\bin\Debug\ServiceModels.dll
+F:\Unity\Servers\WCFServerDoNotStepOnLine\ServiceModels\bin\Debug\ServiceModels.pdb
+F:\Unity\Servers\WCFServerDoNotStepOnLine\ServiceModels\obj\Debug\ServiceModels.csprojAssemblyReference.cache
+F:\Unity\Servers\WCFServerDoNotStepOnLine\ServiceModels\obj\Debug\ServiceModels.dll
+F:\Unity\Servers\WCFServerDoNotStepOnLine\ServiceModels\obj\Debug\ServiceModels.pdb
+C:\Users\PRG01\source\repos\WCFServerDoNotStepOnLine\ServiceModels\bin\Debug\ServiceModels.dll.config
+C:\Users\PRG01\source\repos\WCFServerDoNotStepOnLine\ServiceModels\bin\Debug\ServiceModels.dll
+C:\Users\PRG01\source\repos\WCFServerDoNotStepOnLine\ServiceModels\bin\Debug\ServiceModels.pdb
+C:\Users\PRG01\source\repos\WCFServerDoNotStepOnLine\ServiceModels\obj\Debug\ServiceModels.csproj.CoreCompileInputs.cache
+C:\Users\PRG01\source\repos\WCFServerDoNotStepOnLine\ServiceModels\obj\Debug\ServiceModels.dll
+C:\Users\PRG01\source\repos\WCFServerDoNotStepOnLine\ServiceModels\obj\Debug\ServiceModels.pdb
+C:\Users\PRG01\source\repos\WCFServerDoNotStepOnLine\ServiceModels\obj\Debug\ServiceModels.csprojAssemblyReference.cache

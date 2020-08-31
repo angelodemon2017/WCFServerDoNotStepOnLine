@@ -1,0 +1,3 @@
+cd C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0
+
+svcutil -out:WCFServerDoNotStepOnLine.cs http://81.177.196.13:20208/?wsdl
